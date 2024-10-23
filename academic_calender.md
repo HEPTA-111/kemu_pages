@@ -7,10 +7,10 @@ Date Event
 Wed, 3rd Jan 2024 University Resumes for 1st Trimester 2024
 Thu, 4th Jan HR Committee
 Mon, 8th Jan – Fri, 12th Jan  Registration & Orientation of New Students and Registration of Continuing Students
-Tue, 9th Jan  Departmental Board of Examiners (DBE)
-Wed, 10th Jan  DVBL Faculty Training
-Thu, 11th Jan  University Management Board
-Thu, 11th Jan  School Board of Examiners (SBE)
+Tue, 9th Jan Departmental Board of Examiners (DBE)
+Wed, 10th Jan  DVBL Faculty Training
+Thu, 11th Jan  University Management Board
+Thu, 11th Jan  School Board of Examiners (SBE)
 Wed, 10th Jan Academic Disciplinary Committee - Meru
 Fri, 12th Jan Release of Provisional Exams Results
 Mon, 15th Jan Directorates Meetings
@@ -18,7 +18,7 @@ Mon, 15th Jan Admissions Committee
 Mon, 15th Jan Academic Disciplinary Committee - NBI
 Mon, 15th Jan Lectures begin for 1st Trimester
 Mon, 15-16th & Fri, 18th Jan QMS Online Training- Validation of Procedures
-Wed, 17th Jan  Deans Committee
+Wed, 17th Jan  Deans Committee
 Thu, 18th Jan SENATE (EXAMINATIONS) 
 Fri, 19th Jan Release of Final Exams Results
 Fri, 19th Jan Library and Bookshop Committee
@@ -148,9 +148,9 @@ THIRD TRIMESTER 2024
 
 Date Event 
 Mon, 2nd Sep - Fri,6th Sep 2024  Registration & Orientation of New Students and  Registration of Continuing Students
-Tue, 3rd Sep  Department Board of Examiners (DBE)
-Wed, 4th Sep  DVBL Faculty Training
-Thu, 5th Sep  School Board of Examiners (SBE)
+Tue, 3rd Sep  Department Board of Examiners (DBE)
+Wed, 4th Sep  DVBL Faculty Training
+Thu, 5th Sep School Board of Examiners (SBE)
 Fri, 6th Sep Release of Provisional Exams Results
 Fri, 6th Sep Graduation Fee Clearance Deadline
 Mon, 9th Sep Lectures begin for 3rd Trimester 
