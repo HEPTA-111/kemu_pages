@@ -1,169 +1,174 @@
-### MONDAY
+KENYA METHODIST UNIVERSITY CLASS SCHEDULE
+SEMESTER: 2024/1
+DOCUMENT TYPE: TIMETABLE
+VERSION: 1.0
 
-- **Class 1**
-  - **Unit Code:** BBIT 111 / CISY 101
-  - **Unit Name:** Introduction to Computer Systems
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL2
-  - **Lecturer:** David Kaje
-  
+=== MONDAY CLASSES ===
 
-- **Class 2**
-  - **Unit Code:** BBIT 333 / CISY 422
-  - **Unit Name:** Introduction to Artificial Intelligence
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL1
-  - **Lecturer:** Timothy Anondo
- 
+CLASS M1
+Course ID: BBIT 111 / CISY 101
+Course Name: Introduction to Computer Systems
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. David Kaje
+Duration: 2 Hours
 
-- **Class 3**
-  - **Unit Code:** BBIT 121 / CISY 110
-  - **Unit Name:** Introduction to Programming
-  - **Time:** 12:00 pm - 3:00 pm
-  - **Venue:** CL2
-  - **Lecturer:** David Kaje
- 
+CLASS M2
+Course ID: BBIT 333 / CISY 422
+Course Name: Introduction to Artificial Intelligence  
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. Timothy Anondo
+Duration: 2 Hours
 
-- **Class 4**
-  - **Unit Code:** BBIT 444 / CISY 333
-  - **Unit Name:** Wireless Communication
-  - **Time:** 12:00 pm - 2:00 pm
-  - **Venue:** CL1
-  - **Lecturer:** Timothy Anondo
+CLASS M3
+Course ID: BBIT 121 / CISY 110
+Course Name: Introduction to Programming
+Time Block: 1200 to 1500 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. David Kaje
+Duration: 3 Hours
 
+CLASS M4
+Course ID: BBIT 444 / CISY 333
+Course Name: Wireless Communication
+Time Block: 1200 to 1400 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. Timothy Anondo
+Duration: 2 Hours
 
----
+=== TUESDAY CLASSES ===
 
-### TUESDAY
+CLASS T1
+Course ID: BBIT 111 / CISY 101
+Course Name: Introduction to Computer Systems
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. David Kaje
+Duration: 2 Hours
 
-- **Class 1**
-  - **Unit Code:** BBIT 111 / CISY 101
-  - **Unit Name:** Introduction to Computer Systems
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL1
-  - **Lecturer:** David Kaje
+CLASS T2
+Course ID: BBIT 223 / CISY 210
+Course Name: Object-Oriented Programming
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Jenu John
+Duration: 2 Hours
 
+CLASS T3
+Course ID: BBIT 242 / CISY 231
+Course Name: Telecommunication Networks
+Time Block: 0900 to 1200 Hours
+Location: Computer Lab 3 (CL3)
+Instructor: Dr. Peter Waweru
+Duration: 3 Hours
 
-- **Class 2**
-  - **Unit Code:** BBIT 223 / CISY 210
-  - **Unit Name:** Object-Oriented Programming
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL2
-  - **Lecturer:** Jenu John
-  
+CLASS T4
+Course ID: BBIT 426 / CISY 310
+Course Name: Advanced Programming
+Time Block: 1100 to 1400 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Jenu John
+Duration: 3 Hours
 
-- **Class 3**
-  - **Unit Code:** BBIT 242 / CISY 231
-  - **Unit Name:** Telecommunication Networks
-  - **Time:** 9:00 am - 12:00 pm
-  - **Venue:** CL3
-  - **Lecturer:** Peter Waweru
-  
+CLASS T5
+Course ID: BBIT 437
+Course Name: Accounting Information Systems
+Time Block: 1400 to 1700 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. Peter Waweru
+Duration: 3 Hours
 
-- **Class 4**
-  - **Unit Code:** BBIT 426 / CISY 310
-  - **Unit Name:** Advanced Programming
-  - **Time:** 11:00 am - 2:00 pm
-  - **Venue:** CL2
-  - **Lecturer:** Jenu John
-  
+=== WEDNESDAY CLASSES ===
 
-- **Class 5**
-  - **Unit Code:** BBIT 437
-  - **Unit Name:** Accounting Information Systems
-  - **Time:** 2:00 pm - 5:00 pm
-  - **Venue:** CL1
-  - **Lecturer:** Peter Waweru
-  
+CLASS W1
+Course ID: BBIT 223 / CISY 210
+Course Name: Object-Oriented Programming
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Jenu John
+Duration: 2 Hours
 
----
+CLASS W2
+Course ID: BBIT 432 / CISY 423
+Course Name: Advanced Database Systems
+Time Block: 0900 to 1200 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. David Kaje
+Duration: 3 Hours
 
-### WEDNESDAY
+CLASS W3
+Course ID: BBIT 431 / CISY 426
+Course Name: Multimedia Systems
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 3 (CL3)
+Instructor: Dr. Timothy Anondo
+Duration: 2 Hours
 
-- **Class 1**
-  - **Unit Code:** BBIT 223 / CISY 210
-  - **Unit Name:** Object-Oriented Programming
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL2
-  - **Lecturer:** Jenu John
- 
+CLASS W4
+Course ID: BBIT 426 / CISY 310
+Course Name: Advanced Programming
+Time Block: 1100 to 1300 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Jenu John
+Duration: 2 Hours
 
-- **Class 2**
-  - **Unit Code:** BBIT 432 / CISY 423
-  - **Unit Name:** Advanced Database Systems
-  - **Time:** 9:00 am - 12:00 pm
-  - **Venue:** CL1
-  - **Lecturer:** David Kaje
-  
+CLASS W5
+Course ID: BBIT 324 / CISY 212
+Course Name: Data Structures and Algorithms
+Time Block: 1300 to 1600 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. David Kaje
+Duration: 3 Hours
 
-- **Class 3**
-  - **Unit Code:** BBIT 431 / CISY 426
-  - **Unit Name:** Multimedia Systems
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL3
-  - **Lecturer:** Timothy Anondo
-  -
+CLASS W6
+Course ID: BBIT 446 / CISY 432
+Course Name: Network Hardware and Configuration
+Time Block: 1300 to 1600 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Timothy Anondo
+Duration: 3 Hours
 
-- **Class 4**
-  - **Unit Code:** BBIT 426 / CISY 310
-  - **Unit Name:** Advanced Programming
-  - **Time:** 11:00 am - 1:00 pm
-  - **Venue:** CL2
-  - **Lecturer:** Jenu John
-  
+=== THURSDAY CLASSES ===
 
-- **Class 5**
-  - **Unit Code:** BBIT 324 / CISY 212
-  - **Unit Name:** Data Structures and Algorithms
-  - **Time:** 1:00 pm - 4:00 pm
-  - **Venue:** CL1
-  - **Lecturer:** David Kaje
+CLASS H1
+Course ID: BBIT 213 / CISY 300
+Course Name: Computer Operating Systems I
+Time Block: 0900 to 1200 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Eunice Odero
+Duration: 3 Hours
 
+CLASS H2
+Course ID: BBIT 333 / CISY 422
+Course Name: Introduction to Artificial Intelligence
+Time Block: 0900 to 1100 Hours
+Location: Computer Lab 1 (CL1)
+Instructor: Dr. Timothy Anondo
+Duration: 2 Hours
 
-- **Class 6**
-  - **Unit Code:** BBIT 446 / CISY 432
-  - **Unit Name:** Network Hardware and Configuration
-  - **Time:** 1:00 pm - 4:00 pm
-  - **Venue:** CL2
-  - **Lecturer:** Timothy Anondo
- 
+CLASS H3
+Course ID: BBIT 316 / CISY 302
+Course Name: Research Methodology
+Time Block: 1400 to 1700 Hours
+Location: Room F2-2
+Instructor: Dr. Peter Waweru
+Duration: 3 Hours
 
----
+=== FRIDAY CLASSES ===
 
-### THURSDAY
+CLASS F1
+Course ID: BBIT 436 / CISY 428
+Course Name: E-commerce
+Time Block: 0800 to 1100 Hours
+Location: Computer Lab 2 (CL2)
+Instructor: Dr. Eunice Odero
+Duration: 3 Hours
 
-- **Class 1**
-  - **Unit Code:** BBIT 213 / CISY 300
-  - **Unit Name:** Computer Operating Systems I
-  - **Time:** 9:00 am - 12:00 pm
-  - **Venue:** CL2
-  - **Lecturer:** Eunice Odero
-  -
+=== END OF SCHEDULE ===
 
-- **Class 2**
-  - **Unit Code:** BBIT 333 / CISY 422
-  - **Unit Name:** Introduction to Artificial Intelligence
-  - **Time:** 9:00 am - 11:00 am
-  - **Venue:** CL1
-  - **Lecturer:** Timothy Anondo
-  
-
-- **Class 3**
-  - **Unit Code:** BBIT 316 / CISY 302
-  - **Unit Name:** Research Methodology
-  - **Time:** 2:00 pm - 5:00 pm
-  - **Venue:** F2-2
-  - **Lecturer:** Peter Waweru
-  
-
----
-
-### FRIDAY
-
-- **Class 1**
-  - **Unit Code:** BBIT 436 / CISY 428
-  - **Unit Name:** E-commerce
-  - **Time:** 8:00 am - 11:00 am
-  - **Venue:** CL2
-  - **Lecturer:** Eunice Odero
-  
+METADATA:
+Total Classes Per Week: 18
+Total Instructors: 6
+Total Venues Used: 4
+Schedule Last Updated: 2024-11-12
