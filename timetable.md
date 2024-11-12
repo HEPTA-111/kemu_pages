@@ -171,4 +171,4 @@ METADATA:
 Total Classes Per Week: 18
 Total Instructors: 6
 Total Venues Used: 4
-Schedule Last Updated: 2024-11-12
+Schedule Last Updated: 2024-11-12.
