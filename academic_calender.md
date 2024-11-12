@@ -1,68 +1,182 @@
-                                                        KENYA METHODIST UNIVERSITY: 2024 ACADEMIC CALENDA
+KENYA METHODIST UNIVERSITY
+ACADEMIC CALENDAR 2024
+THIRD TRIMESTER
+PERIOD: 2 SEPTEMBER - 14 DECEMBER 2024
+DURATION: 15 WEEKS
 
-THIRD TRIMESTER 2024 
-2nd September – 14th December, 2024 (15 WEEKS)
+=== SEPTEMBER 2024 ===
 
-Date Event 
-Mon, 2nd Sep - Fri,6th Sep 2024  Registration & Orientation of New Students and  Registration of Continuing Students
-Tue, 3rd Sep  Department Board of Examiners (DBE)
-Wed, 4th Sep  DVBL Faculty Training
-Thu, 5th Sep  School Board of Examiners (SBE)
-Fri, 6th Sep Release of Provisional Exams Results
-Fri, 6th Sep Graduation Fee Clearance Deadline
-Mon, 9th Sep Lectures begin for 3rd Trimester 
-Mon, 9th Sep Admissions Committee
-Mon, 9th Fri, 20th Sep Late Registration with a Penalty 
-Tue, 10th Sep Deans’ Committee
-Wed, 11th - Thu, 12th Sep Seminars/ Proposal/ Final Thesis Oral Examination – ALL SCHOOLS
-Thu, 12th Sep University Management Board
-Fri, 13th Sep Vice Chancellor’s Address of Freshmen – Nairobi campus
-Mon, 16th Sep Vice Chancellor’s Address of Freshmen –Mombasa campus
-Wed, 18th Sep SENATE (EXAMINATIONS)
-Thu, 19th Sep HR Committee Meeting
-Thu, 20th Sep Credit Transfer Committee
-Fri, 17th Sep Release of Final Exams Results
-Fri, 20th Sep Vice Chancellor’s Address of Freshmen – Main campus
-Fri, 20th Sep Last day for course add/drop
-Mon, 23rd Sep Library & Bookshop Committee
-Tue, 24th Sep Social Disciplinary Committee
-Tue, 24th Sep FINAL 2024 GRADUATION LIST
-Wed, 25th Sep SENATE (GRADUATION LISTS)
-Fri, 27th Sep UNIVERSITY COUNCIL (GRADUATION LISTS)
-Wed, 2nd Oct Directorate Boards Meeting
-Thu, 3rd Oct HR Committee Meeting
-Thu, 3rd Oct Blended Learning Committee
-Fri, 4th Oct Graduation Steering Committee
-Thu, 10th Oct PUBLIC HOLIDAY
-Thu, 17th Oct University Management Board
-Fri, 18th Oct 24th Graduation Commissioning Service/Rehearsal
-Sat, 19th Oct 24rd GRADUATION CEREMONY 
-Sun, 20th Oct PUBLIC HOLIDAY
-Mon, 21st Oct – Fri, 
-25th, Oct Clearance for Missed/Special / Supplementary Examinations
-Tue, 22nd Oct Deans’ Committee
-Mon, 28th Oct 24th Graduation Post-Mortem
-Wed, 30th Oct SENATE 
-Fri, 5th Nov RGAA – Students Interactive Forum
-Tue, 12th Nov HR Committee Meeting
-Wed, 13th Nov University Management Board
-Thu, 14th Nov  Committee of Council – ARSAC Committee of Council - HRAPC
-Fri, 15th Nov  Committee of Council – FRMGC Committee of Council - ARGSC
-Thu, 14th Nov UNIVERSITY PRAYER DAY
-Fri, 22nd Nov Lectures for 3rd Trimester End
-Mon, 18th Nov - Fri,29th Nov Final Clearance for End-of 3rd Trimester Examinations
-Tue, 19st Nov Deans’ Committee
-Thu, 26th Nov HR Committee Meeting
-Fri, 29th Nov UNIVERSITY COUNCIL 
-Mon, 2nd Dec - Sat, 
-14th Dec End of 3rd Trimester Examinations
-Wed, 4th Dec SENATE 
-Thu, 5th Dec University Management Board
-Thu, 12th Dec PUBLIC HOLIDAY 
-Fri, 13th Dec BOARD OF TRUSTEES 
-Fri, 20th Dec Christmas Break
-Mon, 6th Jan 2025 University Resumes for 1st Trimester 2025
-Tue, 7th Jan – Fri, 17th Jan 2025  Registration & Orientation of New Students and Registration of Continuing Students
-Thu, 9th Jan Departmental Board of Examiners (DBE)
-Mon, 13th Jan School Board of Examiners (SBE)
-Tue, 14th Jan Release of Provisional Exams 
+WEEK 1: REGISTRATION AND ORIENTATION
+02/09/2024 - 06/09/2024
+Event: Registration & Orientation Period
+Type: Administrative
+Details: New Student Orientation and Continuing Student Registration
+
+KEY DATES - WEEK 1
+03/09/2024 | EXAM BOARD
+Type: Academic Meeting
+Event: Department Board of Examiners (DBE)
+
+04/09/2024 | TRAINING
+Type: Faculty Development
+Event: DVBL Faculty Training
+
+05/09/2024 | EXAM BOARD
+Type: Academic Meeting
+Event: School Board of Examiners (SBE)
+
+06/09/2024 | ACADEMIC DEADLINES
+Type: Results & Fees
+Events:
+- Release of Provisional Exam Results
+- Graduation Fee Clearance Deadline
+
+WEEK 2: ACADEMIC COMMENCEMENT
+09/09/2024 | ACADEMIC START
+Type: Term Start
+Events:
+- Third Trimester Lectures Begin
+- Admissions Committee Meeting
+
+09/09/2024 - 20/09/2024 | REGISTRATION PERIOD
+Type: Administrative
+Event: Late Registration with Penalty
+
+KEY DATES - WEEK 2
+10/09/2024 | ADMINISTRATION
+Type: Management Meeting
+Event: Deans' Committee
+
+11/09/2024 - 12/09/2024 | ACADEMIC
+Type: Research Assessment
+Event: Seminars/Proposal/Final Thesis Oral Examination - ALL SCHOOLS
+
+12/09/2024 | ADMINISTRATION
+Type: Management Meeting
+Event: University Management Board
+
+13/09/2024 | ORIENTATION
+Type: Student Address
+Event: Vice Chancellor's Address - Nairobi Campus
+
+WEEK 3: ORIENTATION CONTINUATION
+16/09/2024 | ORIENTATION
+Type: Student Address
+Event: Vice Chancellor's Address - Mombasa Campus
+
+18/09/2024 | ACADEMIC
+Type: Senate Meeting
+Event: SENATE (EXAMINATIONS)
+
+19/09/2024 | ADMINISTRATION
+Type: HR Meeting
+Event: HR Committee Meeting
+
+20/09/2024 | ACADEMIC DEADLINES
+Type: Multiple Events
+Events:
+- Credit Transfer Committee
+- Release of Final Exam Results
+- Vice Chancellor's Address - Main Campus
+- Last Day for Course Add/Drop
+
+=== OCTOBER 2024 ===
+
+KEY DATES
+02/10/2024 | ADMINISTRATION
+Type: Board Meeting
+Event: Directorate Boards Meeting
+
+03/10/2024 | ADMINISTRATION
+Type: Multiple Meetings
+Events:
+- HR Committee Meeting
+- Blended Learning Committee
+
+04/10/2024 | GRADUATION
+Type: Planning Meeting
+Event: Graduation Steering Committee
+
+10/10/2024 | HOLIDAY
+Type: Public Holiday
+Event: National Holiday
+
+18/10/2024 | GRADUATION
+Type: Ceremony Preparation
+Event: 24th Graduation Commissioning Service/Rehearsal
+
+19/10/2024 | GRADUATION
+Type: Main Event
+Event: 24th GRADUATION CEREMONY
+
+20/10/2024 | HOLIDAY
+Type: Public Holiday
+Event: National Holiday
+
+=== NOVEMBER 2024 ===
+
+KEY DATES
+05/11/2024 | STUDENT AFFAIRS
+Type: Forum
+Event: RGAA – Students Interactive Forum
+
+14/11/2024 | INSTITUTIONAL
+Type: Special Event
+Event: UNIVERSITY PRAYER DAY
+
+22/11/2024 | ACADEMIC
+Type: Term End
+Event: Lectures for 3rd Trimester End
+
+18/11/2024 - 29/11/2024 | EXAMINATIONS
+Type: Administrative
+Event: Final Clearance for End-of 3rd Trimester Examinations
+
+=== DECEMBER 2024 ===
+
+KEY DATES
+02/12/2024 - 14/12/2024 | EXAMINATIONS
+Type: Academic Assessment
+Event: End of 3rd Trimester Examinations
+
+12/12/2024 | HOLIDAY
+Type: Public Holiday
+Event: National Holiday
+
+20/12/2024 | BREAK
+Type: Holiday Period
+Event: Christmas Break Begins
+
+=== JANUARY 2025 (NEXT TRIMESTER) ===
+
+KEY DATES
+06/01/2025 | ACADEMIC
+Type: Term Start
+Event: University Resumes for 1st Trimester 2025
+
+07/01/2025 - 17/01/2025 | REGISTRATION
+Type: Administrative
+Event: Registration & Orientation of New/Continuing Students
+
+09/01/2025 | EXAM BOARD
+Type: Academic Meeting
+Event: Departmental Board of Examiners (DBE)
+
+13/01/2025 | EXAM BOARD
+Type: Academic Meeting
+Event: School Board of Examiners (SBE)
+
+14/01/2025 | RESULTS
+Type: Academic
+Event: Release of Provisional Exams
+
+=== METADATA ===
+Document Type: Academic Calendar
+Academic Year: 2024
+Trimester: Third
+Total Duration: 15 Weeks
+Public Holidays: 3
+Major Events: Graduation Ceremony
+Exam Periods: 2 Weeks
+Registration Periods: 2 Weeks
+Last Updated: 2024-11-12
